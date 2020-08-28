@@ -20,3 +20,4 @@ jar: $(classes)
 	@echo "Main-Class: SudokuSolver" >> manifest.txt
 	@echo "" >> manifest.txt
 	jar -cmf manifest.txt SudokuSolver.jar $(classes)
+	chmod +x SudokuSolver.jar
