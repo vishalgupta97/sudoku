@@ -1,10 +1,13 @@
-Sudoku solver written in Java Swing. 
+<p align="center">
+	<h1 align="center"> SudokuSolver </h1>
+	Sudoku solver written in Java Swing. 
+</p>
 
-Build:-
-
+# Build
+```
 make jar
-
-Run:-
-
+```
+# Run
+```
 ./SudokuSolver.jar
-
+```
