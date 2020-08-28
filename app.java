@@ -9,7 +9,7 @@ public class app extends JFrame implements ActionListener
     static int pos=0;
     public app()
     {
-        super("Sudoku");
+        super("Sudoku Solver");
         super.setBounds(100,100,300,300);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setLayout(new FlowLayout());
